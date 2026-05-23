@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Современный JavaScript для нетерпеливых",
+    "author": "Кэй С. Хорстман",
+    "publisher": "ДМК",
+    "year": 2021,
+    "filename": "Хорстман_К_Современный_JavaScript_для_нетерпеливых_2021.pdf",
+    "cover": "Хорстман_К_Современный_JavaScript_для_нетерпеливых_2021_auto.png",
+    "tags": [
+      0
+    ]
+  },
+  {
+    "title": "JavaScript: Полное руководство",
+    "author": "Дэвид Флэнаган",
+    "publisher": "Диалектика",
+    "year": 2021,
+    "filename": "Флэнаган_Д_JavaScript_Полное_руководство,_7_е_издание_2021.pdf",
+    "cover": "Флэнаган_Д_JavaScript_Полное_руководство,_7_е_издание_2021_auto.png",
+    "tags": [
+      0,
+      1
+    ]
+  },
+  {
+    "title": "Справочник JavaScript",
+    "author": "Никольский А.П., Дубовик Е.В.",
+    "publisher": "Наука и Техника",
+    "year": 2021,
+    "filename": "Справочник JavaScript.pdf",
+    "cover": "Справочник JavaScript_auto.png",
+    "tags": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "title": "Разработка\nна JavaScript. Построение кроссплатформенных приложений \nс помощью GraphQL, React, React Native и Electron",
+    "author": "Адам Д. Скотт",
+    "publisher": "Питер",
+    "year": 2021,
+    "filename": "Разработка_на_JavaScript_Построение_кроссплатформ.pdf",
+    "cover": "Разработка_на_JavaScript_Построение_кроссплатформ_auto.png",
+    "tags": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+colorama>=0.4.6
+iniconfig>=2.3.0
+packaging>=26.2
+pillow>=12.2.0
+pip>=26.0.1
+pluggy>=1.6.0
+Pygments>=2.20.0
+PyMuPDF>=1.27.2.3
+pytest>=9.0.3
+ttkbootstrap>=1.20.2

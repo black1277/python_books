@@ -1,0 +1,703 @@
+[
+  {
+    "title": "40 алгоритмов, которые должен знать каждый программист на Python",
+    "author": "Имран Ахмад",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "_40 алгоритмов, которые должен знать каждый программист на Python.pdf",
+    "cover": "_40 алгоритмов, которые должен знать каждый программист на Python_auto.png",
+    "tags": [
+      0
+    ]
+  },
+  {
+    "title": "Asyncio и конкурентное программирование на Python",
+    "author": "Мэттью Фаулер",
+    "publisher": "ДМК",
+    "year": 2023,
+    "filename": "_Asyncio и конкурентное программирование на Python.pdf",
+    "cover": "_Asyncio и конкурентное программирование на Python_auto.png",
+    "tags": [
+      1
+    ]
+  },
+  {
+    "title": "Black Hat Python",
+    "author": "Джастин Зейтц, Тим А.",
+    "publisher": "Питер",
+    "year": 2022,
+    "filename": "_Black Hat Python. 2 изд.pdf",
+    "cover": "_Black Hat Python. 2 изд_auto.png",
+    "tags": [
+      2
+    ]
+  },
+  {
+    "title": "Python большая книга примеров",
+    "author": "Марченко А.Л",
+    "publisher": "Изд. Моск. унив.",
+    "year": 2023,
+    "filename": "_Python большая книга примеров.pdf",
+    "cover": "_Python большая книга примеров_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Python для сложных задач",
+    "author": "Дж. Вандер Плас",
+    "publisher": "Питер",
+    "year": 2018,
+    "filename": "_Python для сложных задач.pdf",
+    "cover": "_Python для сложных задач_auto.png",
+    "tags": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "title": "Python и анализ данных",
+    "author": "Уэс Маккинни",
+    "publisher": "ДМК",
+    "year": 2023,
+    "filename": "_Python и анализ данных. 3 изд.pdf",
+    "cover": "_Python и анализ данных. 3 изд_auto.png",
+    "tags": [
+      5,
+      6
+    ]
+  },
+  {
+    "title": "Python. Визуализация данных",
+    "author": "Абдрахманов М.И.",
+    "publisher": "Devpractice",
+    "year": 2020,
+    "filename": "_Python. Визуализация данных.pdf",
+    "cover": "_Python. Визуализация данных_auto.png",
+    "tags": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "title": "Python. Исчерпывающее руководство",
+    "author": "Дэвид Бизли",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "_Python. Исчерпывающее руководство.pdf",
+    "cover": "_Python. Исчерпывающее руководство_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Python. К вершинам мастерства",
+    "author": "Лусиану Ромальо",
+    "publisher": "ДМК",
+    "year": 2022,
+    "filename": "_Python. К вершинам мастерства. 2-е изд.pdf",
+    "cover": "_Python. К вершинам мастерства. 2-е изд_auto.png",
+    "tags": [
+      3,
+      1
+    ]
+  },
+  {
+    "title": "Python. Лучшие практики и инструменты",
+    "author": "Михаил Я., Тарек З.",
+    "publisher": "Питер",
+    "year": 2024,
+    "filename": "_Python. Лучшие практики и инструменты. 4 изд.pdf",
+    "cover": "_Python. Лучшие практики и инструменты. 4 изд_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Python. Непрерывная интеграция и доставка",
+    "author": "Мориц Ленц",
+    "publisher": "ДМК",
+    "year": 2020,
+    "filename": "_Python. Непрерывная интеграция и доставка.pdf",
+    "cover": "_Python. Непрерывная интеграция и доставка_auto.png",
+    "tags": [
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "title": "Python. Полное руководство",
+    "author": "Кольцов Д.М.",
+    "publisher": "Издат. Наука и Техника",
+    "year": 2022,
+    "filename": "_Python. Полное руководство.pdf",
+    "cover": "_Python. Полное руководство_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Биоинформатика с Python. Книга рецептов",
+    "author": "Тиаго Антао",
+    "publisher": "ДМК",
+    "year": 2023,
+    "filename": "_Биоинформатика с Python книга рецептов.pdf",
+    "cover": "_Биоинформатика с Python книга рецептов_auto.png",
+    "tags": [
+      5,
+      6,
+      7,
+      4,
+      13
+    ]
+  },
+  {
+    "title": "Глубокое обучение и игра в Go",
+    "author": "Макс П., Кевин Ф.",
+    "publisher": "ДМК",
+    "year": 2020,
+    "filename": "_Глубокое обучение и игра в Go.pdf",
+    "cover": "_Глубокое обучение и игра в Go_auto.png",
+    "tags": [
+      4,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "title": "Глубокое обучение на Python",
+    "author": "Франсуа Шолле",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "_Глубокое обучение на Python. 2 изд.pdf",
+    "cover": "_Глубокое обучение на Python. 2 изд_auto.png",
+    "tags": [
+      4,
+      15,
+      16
+    ]
+  },
+  {
+    "title": "Изучаем квантовые вычисления на Python и Q#",
+    "author": "Сара К., Кристофер Г.",
+    "publisher": "ДМК",
+    "year": 2021,
+    "filename": "_Изучаем квантовые вычисления на Python и Q#.pdf",
+    "cover": "_Изучаем квантовые вычисления на Python и Q#_auto.png",
+    "tags": [
+      0,
+      17
+    ]
+  },
+  {
+    "title": "Изучение сложных систем с помощью Python",
+    "author": "Аллен Б. Дауни",
+    "publisher": "ДМК",
+    "year": 2019,
+    "filename": "_Изучение сложных систем с помощью Python.pdf",
+    "cover": "_Изучение сложных систем с помощью Python_auto.png",
+    "tags": [
+      18,
+      19,
+      0
+    ]
+  },
+  {
+    "title": "Искусственный интеллект и компьютерное зрение",
+    "author": "Анирад К., Сиддха Г., Мехер К.",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "_Искусственный интеллект и компьютерное зрение.pdf",
+    "cover": "_Искусственный интеллект и компьютерное зрение_auto.png",
+    "tags": [
+      20,
+      16,
+      15,
+      4
+    ]
+  },
+  {
+    "title": "Компьютерное зрение на Python. Первые шаги",
+    "author": "Шакирьянов Э.Д.",
+    "publisher": "Лаборатория знаний",
+    "year": 2021,
+    "filename": "_Компьютерное зрение на Python. Первые шаги.pdf",
+    "cover": "_Компьютерное зрение на Python. Первые шаги_auto.png",
+    "tags": [
+      21,
+      22
+    ]
+  },
+  {
+    "title": "Криптография и взлом шифров на Python",
+    "author": "Эл Свейгарт",
+    "publisher": "Диалектика",
+    "year": 2020,
+    "filename": "_Криптография и взлом шифров на Python.pdf",
+    "cover": "_Криптография и взлом шифров на Python_auto.png",
+    "tags": [
+      23
+    ]
+  },
+  {
+    "title": "Обработка естественного языка. Python и spaCy",
+    "author": "Васильев Ю.",
+    "publisher": "Питер",
+    "year": 2021,
+    "filename": "_Обработка естественного языка. Python и spaCy.pdf",
+    "cover": "_Обработка естественного языка. Python и spaCy_auto.png",
+    "tags": [
+      4,
+      24
+    ]
+  },
+  {
+    "title": "Основы искусственного интеллекта в примерах на Python",
+    "author": "Постолит Анатолий",
+    "publisher": "БХВ-Петербург",
+    "year": 2024,
+    "filename": "_Основы искусственного интеллекта в примерах на Python. 2 изд.pdf",
+    "cover": "_Основы искусственного интеллекта в примерах на Python. 2 изд_auto.png",
+    "tags": [
+      21,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "title": "Практическое введение в решение дифференциальных уравнений в Python",
+    "author": "Ершов Н.М.",
+    "publisher": "ДМК",
+    "year": 2022,
+    "filename": "_Практическое введение в решение дифференциальных уравнений в Python.pdf",
+    "cover": "_Практическое введение в решение дифференциальных уравнений в Python_auto.png",
+    "tags": [
+      0,
+      28
+    ]
+  },
+  {
+    "title": "Применение функций OpenCV в компьютерном зрении",
+    "author": "Молодяков С.А.",
+    "publisher": "Изд. Политех. унив.",
+    "year": 2022,
+    "filename": "_Применение функций OpenCV в компьютерном зрении.pdf",
+    "cover": "_Применение функций OpenCV в компьютерном зрении_auto.png",
+    "tags": [
+      21
+    ]
+  },
+  {
+    "title": "Разработка приложений с графическим пользовательским интерфейсом на языке Python",
+    "author": "Букунов С.В., Букунова О.В.",
+    "publisher": "Лань",
+    "year": 2023,
+    "filename": "_Разработка приложений с графическим пользовательским интерфейсом на языке Python.pdf",
+    "cover": "_Разработка приложений с графическим пользовательским интерфейсом на языке Python_auto.png",
+    "tags": [
+      29
+    ]
+  },
+  {
+    "title": "Разработка с использованием квантовых компьютеров",
+    "author": "Владимир Сильва",
+    "publisher": "Питер",
+    "year": 2020,
+    "filename": "_Разработка с использованием квантовых компьютеров.pdf",
+    "cover": "_Разработка с использованием квантовых компьютеров_auto.png",
+    "tags": [
+      30,
+      31
+    ]
+  },
+  {
+    "title": "Современный скрапинг веб-сайтов с помощью Python",
+    "author": "Райан Митчел",
+    "publisher": "Питер",
+    "year": 2021,
+    "filename": "_Современный скрапинг веб-сайтов с помощью Python. 2 издание.pdf",
+    "cover": "_Современный скрапинг веб-сайтов с помощью Python. 2 издание_auto.png",
+    "tags": [
+      32
+    ]
+  },
+  {
+    "title": "Структуры данных в Python",
+    "author": "Дональд Р. Шихи",
+    "publisher": "ДМК",
+    "year": 2022,
+    "filename": "_Структуры данных в Python.pdf",
+    "cover": "_Структуры данных в Python_auto.png",
+    "tags": [
+      3,
+      18,
+      0
+    ]
+  },
+  {
+    "title": "Учим Python, делая крутые игры",
+    "author": "Эл Свейгарт",
+    "publisher": "Эксмо",
+    "year": 2018,
+    "filename": "_Учим Python, делая крутые игры. 4-е изд.pdf",
+    "cover": "_Учим Python, делая крутые игры. 4-е изд_auto.png",
+    "tags": [
+      33
+    ]
+  },
+  {
+    "title": "Чистый Python",
+    "author": "Дэн Бейдер",
+    "publisher": "Питер",
+    "year": 2018,
+    "filename": "_Чистый Python.pdf",
+    "cover": "_Чистый Python_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Django 4 в примерах",
+    "author": "Антонио Меле",
+    "publisher": "ДМК",
+    "year": 2023,
+    "filename": "Django 4 By Example - Fourth Edition.pdf",
+    "cover": "Django 4 By Example - Fourth Edition_auto.png",
+    "tags": [
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "title": "Изучаем Python. Том 1",
+    "author": "Марк Лутц",
+    "publisher": "Диалектика",
+    "year": 2019,
+    "filename": "Izuchaem_Python_Tom_1_5-e_izdanie__2019_Mark_Lutts.pdf",
+    "cover": "Izuchaem_Python_Tom_1_5-e_izdanie__2019_Mark_Lutts_auto.png",
+    "tags": [
+      3,
+      37
+    ]
+  },
+  {
+    "title": "Изучаем Python. Том 2",
+    "author": "Марк Лутц",
+    "publisher": "Диалектика",
+    "year": 2020,
+    "filename": "Izuchaem_Python_Tom_2_5-e_izdanie__2020_Mark_Lutts.pdf",
+    "cover": "Izuchaem_Python_Tom_2_5-e_izdanie__2020_Mark_Lutts_auto.png",
+    "tags": [
+      3,
+      38
+    ]
+  },
+  {
+    "title": "Библиотека Matplotlib",
+    "author": "Абдрахманов М.И.",
+    "publisher": "Devpractice",
+    "year": 2019,
+    "filename": "Matplotlib.book.pdf",
+    "cover": "Matplotlib.book_auto.png",
+    "tags": [
+      7
+    ]
+  },
+  {
+    "title": "Программирование для «нормальных» с нуля на языке Python. Часть 1",
+    "author": "Сысоева М.В., Сысоев И.В.",
+    "publisher": "МАКС Пресс",
+    "year": 2023,
+    "filename": "ProgrDlyaNormPython-1.pdf",
+    "cover": "ProgrDlyaNormPython-1_auto.png",
+    "tags": [
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "title": "Программирование для «нормальных» с нуля на языке Python. Часть 2",
+    "author": "Сысоева М.В., Сысоев И.В.",
+    "publisher": "МАКС Пресс",
+    "year": 2023,
+    "filename": "ProgrDlyaNormPython-2.pdf",
+    "cover": "ProgrDlyaNormPython-2_auto.png",
+    "tags": [
+      3,
+      29,
+      39
+    ]
+  },
+  {
+    "title": "Python для сетевых инженеров",
+    "author": "Самойленко Н.",
+    "publisher": "",
+    "year": 2023,
+    "filename": "pyneng-readthedocs-io-ru-latest.pdf",
+    "cover": "pyneng-readthedocs-io-ru-latest_auto.png",
+    "tags": [
+      3,
+      2,
+      38,
+      40
+    ]
+  },
+  {
+    "title": "Python для data science",
+    "author": "Васильев Юлий",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "Python_для_data_science.pdf",
+    "cover": "Python_для_data_science_auto.png",
+    "tags": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "title": "Алгоритмы. С примерами на Python",
+    "author": "Джордж Хайнеман",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "Алгоритмы. С примерами на Python.pdf",
+    "cover": "Алгоритмы. С примерами на Python_auto.png",
+    "tags": [
+      0,
+      18
+    ]
+  },
+  {
+    "title": "Python. Книга рецептов",
+    "author": "Бизли Д., Джонс Б.",
+    "publisher": "ДМК",
+    "year": 2019,
+    "filename": "Бизли Д., Джонс Б. - Python. Книга рецептов - 2019.pdf",
+    "cover": "Бизли Д., Джонс Б. - Python. Книга рецептов - 2019_auto.png",
+    "tags": [
+      3,
+      38,
+      0,
+      2
+    ]
+  },
+  {
+    "title": "Большая книга проектов Python",
+    "author": "Свейгарт Э.",
+    "publisher": "Питер",
+    "year": 2022,
+    "filename": "Большая книга проектов Python [2022] Свейгарт Э..pdf",
+    "cover": "Большая книга проектов Python [2022] Свейгарт Э._auto.png",
+    "tags": [
+      0
+    ]
+  },
+  {
+    "title": "Внутри CPYTHON гид по интерпретатору Python",
+    "author": "Энтони Шоу",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "Внутри CPYTHON гид по интерпретатору Python 2023.pdf",
+    "cover": "Внутри CPYTHON гид по интерпретатору Python 2023_auto.png",
+    "tags": [
+      41
+    ]
+  },
+  {
+    "title": "Глубокое обучение с подкреплением теория и практика на языке Python",
+    "author": "Лаура Грессер, Ван Лун Кенг",
+    "publisher": "Питер",
+    "year": 2022,
+    "filename": "Глубокое обучение с подкреплением теория и практика на языке Python 2022.pdf",
+    "cover": "Глубокое обучение с подкреплением теория и практика на языке Python 2022_auto.png",
+    "tags": [
+      4
+    ]
+  },
+  {
+    "title": "Начинаем программировать на Python",
+    "author": "Тони Гэддис",
+    "publisher": "БХВ-Петербург",
+    "year": 2019,
+    "filename": "Гэддис Т. - Начинаем программировать на Python - 2019.pdf",
+    "cover": "Гэддис Т. - Начинаем программировать на Python - 2019_auto.png",
+    "tags": [
+      3,
+      29
+    ]
+  },
+  {
+    "title": "Начинаем программировать на Python",
+    "author": "Тони Гэддис",
+    "publisher": "БХВ-Петербург",
+    "year": 2022,
+    "filename": "Гэддис Т. Начинаем программировать на Python 2022.pdf",
+    "cover": "Гэддис Т. Начинаем программировать на Python 2022_auto.png",
+    "tags": [
+      3,
+      29
+    ]
+  },
+  {
+    "title": "Математика на Python",
+    "author": "Криволапов С.Я., Хрипунова М.Б.",
+    "publisher": "КноРус",
+    "year": 2022,
+    "filename": "Криволапов С.Я., Хрипунова М.Б. - Математика на Python (Бакалавриат и магистратура) - 2022.pdf",
+    "cover": "Криволапов С.Я., Хрипунова М.Б. - Математика на Python (Бакалавриат и магистратура) - 2022_auto.png",
+    "tags": [
+      7,
+      5,
+      28,
+      27
+    ]
+  },
+  {
+    "title": "Python. Справочник",
+    "author": "Мартелли А., Рейвенскрофт А., Холден С.",
+    "publisher": "Диалектика",
+    "year": 2019,
+    "filename": "Мартелли А., Рейвенскрофт А., Холден С. - Python. Справочник - 2019.pdf",
+    "cover": "Мартелли А., Рейвенскрофт А., Холден С. - Python. Справочник - 2019_auto.png",
+    "tags": [
+      3,
+      2,
+      42
+    ]
+  },
+  {
+    "title": "Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python",
+    "author": "Пол Орланд",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python 2023.pdf",
+    "cover": "Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python 2023_auto.png",
+    "tags": [
+      7,
+      43,
+      44,
+      4,
+      5,
+      28
+    ]
+  },
+  {
+    "title": "Машинное обучение и TensorFlow",
+    "author": "Нишант Шакла",
+    "publisher": "Питер",
+    "year": 2019,
+    "filename": "Машинное обучение и TensorFlow. 2019.pdf",
+    "cover": "Машинное обучение и TensorFlow. 2019_auto.png",
+    "tags": [
+      16,
+      4
+    ]
+  },
+  {
+    "title": "Однострочники Python",
+    "author": "Кристиан Майер",
+    "publisher": "Питер",
+    "year": 2022,
+    "filename": "Однострочники_Python.pdf",
+    "cover": "Однострочники_Python_auto.png",
+    "tags": [
+      5,
+      0
+    ]
+  },
+  {
+    "title": "Основы Python для Data Science",
+    "author": "Кеннеди Берман",
+    "publisher": "Питер",
+    "year": 2023,
+    "filename": "Основы Python для Data Science 2023.pdf",
+    "cover": "Основы Python для Data Science 2023_auto.png",
+    "tags": [
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "title": "Простой Python",
+    "author": "Билл Любанович",
+    "publisher": "Питер",
+    "year": 2021,
+    "filename": "Простой Python 2021.pdf",
+    "cover": "Простой Python 2021_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Python. Экспресс-курс",
+    "author": "Наоми Седер",
+    "publisher": "Питер",
+    "year": 2019,
+    "filename": "Седер Н. Python. Экспресс-курс  2019.pdf",
+    "cover": "Седер Н. Python. Экспресс-курс  2019_auto.png",
+    "tags": [
+      3
+    ]
+  },
+  {
+    "title": "Секреты Python Pro",
+    "author": "Дейн Хиллард",
+    "publisher": "Питер",
+    "year": 2021,
+    "filename": "Секреты Python Pro [2021] Дейн  Хиллард.pdf",
+    "cover": "Секреты Python Pro [2021] Дейн  Хиллард_auto.png",
+    "tags": [
+      3,
+      38,
+      11
+    ]
+  },
+  {
+    "title": "Создаем нейронную сеть",
+    "author": "Тарик Рашид",
+    "publisher": "Диалектика",
+    "year": 2017,
+    "filename": "Создаем нейронную сеть - PDF Room.pdf",
+    "cover": "Создаем нейронную сеть - PDF Room_auto.png",
+    "tags": [
+      4
+    ]
+  },
+  {
+    "title": "Машинное обучение с использованием Python",
+    "author": "Крис Элбон",
+    "publisher": "БХВ-Петербург",
+    "year": 2019,
+    "filename": "Элбон. Машинное обучение с использованием Python.pdf",
+    "cover": "Элбон. Машинное обучение с использованием Python_auto.png",
+    "tags": [
+      4,
+      43,
+      44,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Изучаем Python",
+    "author": "Эрик Мэтиз",
+    "publisher": "Питер",
+    "year": 2020,
+    "filename": "Эрик Мэтиз - Изучаем Python (Библиотека программиста) - 2020.pdf",
+    "cover": "Эрик Мэтиз - Изучаем Python (Библиотека программиста) - 2020_auto.png",
+    "tags": [
+      3,
+      14,
+      34,
+      7
+    ]
+  }
+]

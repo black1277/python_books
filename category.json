@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Базовая (по умолчанию)",
+    "file_json": "books.json",
+    "img": "./data/base/img",
+    "pdf": "./data/base/pdf",
+    "is_base": true,
+    "str_tags": [
+      "Тимлид"
+    ]
+  },
+  {
+    "title": "Математика",
+    "file_json": "books_math.json",
+    "img": "./data/math/img",
+    "pdf": "./data/math/pdf",
+    "is_base": false,
+    "str_tags": [
+      "Тимлид",
+      "Теория вероятностей",
+      "Финансы"
+    ]
+  },
+  {
+    "title": "Python",
+    "file_json": "books_python.json",
+    "img": "./data/python/img",
+    "pdf": "./data/python/pdf",
+    "is_base": false,
+    "str_tags": [
+      "Алгоритмы",
+      "Async",
+      "Сеть",
+      "Основы",
+      "ML",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Mayavi",
+      "Jenkins",
+      "Test",
+      "CI CD",
+      "Биоинформатика",
+      "Game",
+      "Keras",
+      "TensorFlow",
+      "Q#",
+      "Графы",
+      "Клеточные автоматы",
+      "AI",
+      "OpenCV",
+      "Raspberry Pi",
+      "Криптография",
+      "Spacy",
+      "ImageAI",
+      "PyBrain",
+      "scikit-learn",
+      "SymPy",
+      "Tkinter",
+      "QISKit",
+      "Квантовые вычисления",
+      "Скраппинг",
+      "PyGame",
+      "Django",
+      "Docker",
+      "Stripe",
+      "Модули",
+      "ООП",
+      "Multiprocessing",
+      "SQLite",
+      "Компилляция",
+      "Справочник",
+      "Векторы",
+      "Матрицы"
+    ]
+  },
+  {
+    "title": "Геометрия",
+    "file_json": "books_geom.json",
+    "img": "./data/geom/img",
+    "pdf": "./data/geom/pdf",
+    "is_base": false,
+    "str_tags": [
+      "Анализ",
+      "Основы",
+      "Задачи"
+    ]
+  },
+  {
+    "title": "JavaScript",
+    "file_json": "books_js.json",
+    "img": "./data/js/img",
+    "pdf": "./data/js/pdf",
+    "is_base": false,
+    "str_tags": [
+      "Основы",
+      "Справочник",
+      "JQuery",
+      "JQuery UI",
+      "GraphQL",
+      "React",
+      "React Native",
+      "Electron",
+      "Apollo Client"
+    ]
+  },
+  {
+    "title": "PHP",
+    "file_json": "books_php.json",
+    "img": "./data/PHP/img",
+    "pdf": "./data/PHP/pdf",
+    "is_base": false,
+    "str_tags": [
+      "Основы",
+      "Справочник"
+    ]
+  }
+]
